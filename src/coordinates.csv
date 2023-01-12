@@ -1,0 +1,36 @@
+,place_id,osm_type,lat,lon,display_name,class,type,importance,ville
+0,156094736,way,48.6359541,-1.511459954959514,"Mont Saint-Michel, Le Mont-Saint-Michel, Avranches, Manche, Normandie, France métropolitaine, 50170, France",place,islet,0.8654365567815739,Mont Saint Michel
+0,297756747,relation,48.649518,-2.0260409,"Saint-Malo, Ille-et-Vilaine, Bretagne, France métropolitaine, 35400, France",boundary,administrative,0.7864672172428953,St Malo
+0,297981358,relation,49.2764624,-0.7024738,"Bayeux, Calvados, Normandie, France métropolitaine, 14400, France",boundary,administrative,0.7927003853621928,Bayeux
+0,298137491,relation,49.4938975,0.1079732,"Le Havre, Seine-Maritime, Normandie, France métropolitaine, France",boundary,administrative,0.9323325741883645,Le Havre
+0,297518815,relation,49.4404591,1.0939658,"Rouen, Seine-Maritime, Normandie, France métropolitaine, France",boundary,administrative,0.8600726280583955,Rouen
+0,297417241,relation,48.8588897,2.3200410217200766,"Paris, Île-de-France, France métropolitaine, France",boundary,administrative,1.0517101715588673,Paris
+0,297534793,relation,49.8941708,2.2956951,"Amiens, Somme, Hauts-de-France, France métropolitaine, 80090, France",boundary,administrative,0.844948962224904,Amiens
+0,297472400,relation,50.6365654,3.0635282,"Lille, Nord, Hauts-de-France, France métropolitaine, France",boundary,administrative,0.8732037863087654,Lille
+0,297508568,relation,48.584614,7.7507127,"Strasbourg, Bas-Rhin, Grand Est, France métropolitaine, France",boundary,administrative,0.8948054279118731,Strasbourg
+0,49224613,node,48.2495226,7.3454923,"Château du Haut-Kœnigsbourg, Orschwiller, Sélestat-Erstein, Bas-Rhin, Grand Est, France métropolitaine, 67600, France",place,isolated_dwelling,0.51,Chateau du Haut Koenigsbourg
+0,297504747,relation,48.0777517,7.3579641,"Colmar, Colmar-Ribeauvillé, Haut-Rhin, Grand Est, France métropolitaine, 68000, France",boundary,administrative,0.6909087464752242,Colmar
+0,297869324,relation,48.0447968,7.3079618,"Eguisheim, Colmar-Ribeauvillé, Haut-Rhin, Grand Est, France métropolitaine, 68420, France",boundary,administrative,0.7449720206561967,Eguisheim
+0,297668227,relation,47.2380222,6.0243622,"Besançon, Doubs, Bourgogne-Franche-Comté, France métropolitaine, 25000, France",boundary,administrative,0.7283511874833898,Besancon
+0,297478568,relation,47.3215806,5.0414701,"Dijon, Côte-d'Or, Bourgogne-Franche-Comté, France métropolitaine, 21000, France",boundary,administrative,0.8536193867801005,Dijon
+0,298516920,relation,45.8992348,6.1288847,"Annecy, Haute-Savoie, Auvergne-Rhône-Alpes, France métropolitaine, France",boundary,administrative,0.7990769115704566,Annecy
+0,297639071,relation,45.1875602,5.7357819,"Grenoble, Isère, Auvergne-Rhône-Alpes, France métropolitaine, France",boundary,administrative,0.8618085495723451,Grenoble
+0,297681191,relation,45.7578137,4.8320114,"Lyon, Métropole de Lyon, Circonscription départementale du Rhône, Auvergne-Rhône-Alpes, France métropolitaine, France",boundary,administrative,0.9113775965432667,Lyon
+0,76036307,node,43.7496562,6.3285616,"Gorges du Verdon, Route des Crêtes, Les Ferrailles, La Palud-sur-Verdon, Castellane, Alpes-de-Haute-Provence, Provence-Alpes-Côte d'Azur, France métropolitaine, 04120, France",tourism,attraction,0.7881495857429428,Gorges du Verdon
+0,297749145,relation,43.1506968,6.3419285,"Bormes-les-Mimosas, Toulon, Var, Provence-Alpes-Côte d'Azur, France métropolitaine, 83230, France",boundary,administrative,0.8873164194582208,Bormes les Mimosas
+0,298072685,relation,43.2140359,5.5396318,"Cassis, Marseille, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France métropolitaine, 13260, France",boundary,administrative,0.6967802490530643,Cassis
+0,297763730,relation,43.2961743,5.3699525,"Marseille, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France métropolitaine, 13000, France",boundary,administrative,0.9013768937556641,Marseille
+0,297906924,relation,43.5298424,5.4474738,"Aix-en-Provence, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France métropolitaine, France",boundary,administrative,1.0010847663837579,Aix en Provence
+0,297768703,relation,43.9492493,4.8059012,"Avignon, Vaucluse, Provence-Alpes-Côte d'Azur, France métropolitaine, France",boundary,administrative,0.8420935210501683,Avignon
+0,297655586,relation,44.0121279,4.4196718,"Uzès, Nîmes, Gard, Occitanie, France métropolitaine, 30700, France",boundary,administrative,0.6475332788749554,Uzes
+0,297997049,relation,43.8374249,4.3600687,"Nîmes, Gard, Occitanie, France métropolitaine, France",boundary,administrative,0.7130547856893241,Nimes
+0,298018344,relation,43.5658225,4.1912837,"Aigues-Mortes, Nîmes, Gard, Occitanie, France métropolitaine, 30220, France",boundary,administrative,0.8423802893018254,Aigues Mortes
+0,298011281,relation,43.4522771,4.4287172,"Saintes-Maries-de-la-Mer, Arles, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France métropolitaine, 13460, France",boundary,administrative,1.0825165122764473,Saintes Maries de la mer
+0,298221742,relation,42.52505,3.0831554,"Collioure, Céret, Pyrénées-Orientales, Occitanie, France métropolitaine, 66190, France",boundary,administrative,0.7284088842062248,Collioure
+0,297466626,relation,43.2130358,2.3491069,"Carcassonne, Aude, Occitanie, France métropolitaine, 11000, France",boundary,administrative,0.8091672924570599,Carcassonne
+0,341123577,node,48.4103106,2.7858168,"Ariege, Place Greffülhe, Thomery, Fontainebleau, Seine-et-Marne, Île-de-France, France métropolitaine, 77810, France",man_made,street_cabinet,0.22010000000000002,Ariege
+0,298222566,relation,43.6044622,1.4442469,"Toulouse, Haute-Garonne, Occitanie, France métropolitaine, France",boundary,administrative,0.8882142268493705,Toulouse
+0,297932490,relation,44.0175835,1.3549991,"Montauban, Tarn-et-Garonne, Occitanie, France métropolitaine, 82000, France",boundary,administrative,0.7742482145338698,Montauban
+0,297535884,relation,43.4832523,-1.5592776,"Biarritz, Bayonne, Pyrénées-Atlantiques, Nouvelle-Aquitaine, France métropolitaine, 64200, France",boundary,administrative,0.7996122503321825,Biarritz
+0,298271847,relation,43.4945144,-1.4736657,"Bayonne, Pyrénées-Atlantiques, Nouvelle-Aquitaine, France métropolitaine, 64100, France",boundary,administrative,0.8227800210035323,Bayonne
+0,297653650,relation,46.1591126,-1.1520434,"La Rochelle, Charente-Maritime, Nouvelle-Aquitaine, France métropolitaine, 17000, France",boundary,administrative,0.9114837096874572,La Rochelle
