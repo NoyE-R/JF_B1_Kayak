@@ -3,7 +3,6 @@
 # Presentation of the repository
 - Machine Learning project of the Jedha Bootcamp certification (Data Fullstack) including API requests, web scraping of Booking website, ETL (AWS RDS and pgAdmin) and vizualisation of the results.
 - Main output: interactive plot of the top 5 French destination and the top 20 of the hotels.
-- Avalaible video showing the approach and results: [link](https://share.vidyard.com/watch/aPfJJTJCFXN27pAt4nn4ra?)
 - Contact e-mail: [contact](noyer.estelle@gmail.com)
 
 # Folder and files organization
